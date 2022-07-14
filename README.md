@@ -1,4 +1,4 @@
 # PPMtoSobeleffect
 conversion of ppm format with sobel effect
-args is <input image> <output image>
+args is: 1-input image 2-output image
 

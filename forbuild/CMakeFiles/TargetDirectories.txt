@@ -1,0 +1,5 @@
+G:/C++/practicum.yandex/lessons_g++/sobel/forbuild/CMakeFiles/hmirror.dir
+G:/C++/practicum.yandex/lessons_g++/sobel/forbuild/CMakeFiles/vmirror.dir
+G:/C++/practicum.yandex/lessons_g++/sobel/forbuild/CMakeFiles/sobel.dir
+G:/C++/practicum.yandex/lessons_g++/sobel/forbuild/CMakeFiles/ALL_BUILD.dir
+G:/C++/practicum.yandex/lessons_g++/sobel/forbuild/CMakeFiles/ZERO_CHECK.dir

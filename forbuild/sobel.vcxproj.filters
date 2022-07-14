@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="G:\C++\practicum.yandex\lessons_g++\sobel\sobel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\C++\practicum.yandex\lessons_g++\sobel\img_lib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\C++\practicum.yandex\lessons_g++\sobel\ppm_image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="G:\C++\practicum.yandex\lessons_g++\sobel\img_lib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\C++\practicum.yandex\lessons_g++\sobel\ppm_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="G:\C++\practicum.yandex\lessons_g++\sobel\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{CDF5E403-9253-36C3-BC88-5D89AA473352}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{97FD8DA5-E6ED-34D3-898C-67A8D4802FA9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
